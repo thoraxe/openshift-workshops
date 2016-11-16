@@ -119,8 +119,10 @@ CLI command:
 
 [source]
 ----
-oc create -f https://raw.githubusercontent.com/openshift-roadshow/nationalparks/master/ose3/pipeline.yaml
+oc create -f https://raw.githubusercontent.com/openshift-roadshow/nationalparks/master/ose3/pipeline-template.yaml
 ----
+
+** IGNORE SOME STUFF **
 
 A new route, service and a pod is created for the *Live* environment as well as an
 OpenShift Pipeline that automates the execution of steps showed in the above pipeline
