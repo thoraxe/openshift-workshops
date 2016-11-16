@@ -19,3 +19,5 @@ The infrastructure node is providing several services:
 
 Additionally, 100 user accounts have been provisioned. If you do not know your
 user number, please make sure you figure that out with your instructor.
+
+http://bit.ly/2fFvuZk
